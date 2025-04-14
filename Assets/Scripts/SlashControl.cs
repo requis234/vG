@@ -26,3 +26,4 @@ public class SlashControl : MonoBehaviour
         
     }
 }
+//234234
